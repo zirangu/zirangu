@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
+
 
 ### ::man_technologist: About Me :
 
-I am currently pursuing a dual-degree bachelor engineering program between Colby College and Columbia University, currently in my junior year at Columbia University majoring in Operations Research.
+I am currently pursuing a dual-degree bachelor engineering program with Colby College and Columbia University, currently in my junior year at Columbia University majoring in Operations Research.
 
 - :bulb: Building my skills in data science, operations research and financial engineering.
 - :books: I love reading about philosophy.
