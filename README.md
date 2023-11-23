@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 
 
-### ::man_technologist: About Me :
+### :man_technologist: About Me :
 
 I am currently pursuing a dual-degree bachelor engineering program with Colby College and Columbia University, now in my junior year at Columbia University majoring in Operations Research.
 
 - :bulb: Building my skills in data science, operations research and financial engineering.
-- :books: I love reading about philosophy.
-- :chess_pawn: Competitive chess player since 9 yrs old.
+- :books: I love reading about Philosophy.
+- :chess_pawn: I am a competitive chess player since 9 years old.
 - :video_game: My favorite RTS game is Red Alert 3.
 - :mailbox: How to reach me: 
