@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="100"/>
-</div>
-
+  
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
 
 
 
