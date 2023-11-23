@@ -40,4 +40,4 @@ I am currently pursuing a dual-degree bachelor engineering program with Colby Co
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zirangu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zirangu&theme=grubox_light&background=000000)](https://git.io/streak-stats)
