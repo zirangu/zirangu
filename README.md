@@ -35,4 +35,9 @@ I am currently pursuing a dual-degree bachelor engineering program with Colby Co
 - :books: I love reading about Philosophy.
 - :chess_pawn: I am a competitive chess player since 9 years old.
 - :video_game: My favorite RTS game is Red Alert 3.
-- :mailbox: How to reach me: 
+
+---
+
+### :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zirangu&theme=dark&background=000000)](https://git.io/streak-stats)
