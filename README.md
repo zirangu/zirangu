@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### ::man_technologist: About Me :
 
-I am currently pursuing a dual-degree bachelor engineering program with Colby College and Columbia University, currently in my junior year at Columbia University majoring in Operations Research.
+I am currently pursuing a dual-degree bachelor engineering program with Colby College and Columbia University, now in my junior year at Columbia University majoring in Operations Research.
 
 - :bulb: Building my skills in data science, operations research and financial engineering.
 - :books: I love reading about philosophy.
