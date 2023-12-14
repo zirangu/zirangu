@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-### :man_technologist: About Me :
+### About Me :
 
 I am currently pursuing a dual-degree bachelor engineering program with Colby College and Columbia University, now in my junior year at Columbia University majoring in Operations Research.
 
@@ -38,10 +38,10 @@ I am currently pursuing a dual-degree bachelor engineering program with Colby Co
 
 ---
 
-### :fire: My Stats:
+### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zirangu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirangu&layout=compact&theme=vision-friendly-dark)](https://github.com/zirangu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirangu)](https://github.com/anuraghazra/github-readme-stats)
 
